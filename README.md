@@ -5,7 +5,7 @@ Este projeto consiste em uma análise de dados da Cyclistic, uma empresa de comp
 
 Para isso, foi utilizado SQL para responder perguntas de negócio e realizar análises exploratórias, e o Power BI para visualização dos dados e construção de dashboards interativos. Nos arquivos do projeto, também é possível encontrar uma apresentação com os principais insights obtidos ao longo da análise.
 
-
+# ferramentas 
 
 
 
