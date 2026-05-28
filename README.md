@@ -25,8 +25,8 @@ Essas dimensões permitiram identificar diferenças claras entre uso recorrente 
 
  ## O que eu fiz neste projeto
  
-Extração e exploração de dados utilizando SQL
-Limpeza e tratamento dos dados para análise
+-Extração e exploração de dados utilizando SQL
+-Limpeza e tratamento dos dados para análise
 Criação de métricas relevantes para o negócio
 Desenvolvimento de dashboard no Power BI focado em tomada de decisão
 Tradução dos dados em insights acionáveis
