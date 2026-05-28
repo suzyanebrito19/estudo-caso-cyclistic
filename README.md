@@ -1,7 +1,7 @@
 # Análise do sistema de compartilhamento de bicicletas para ciclistas: comportamento de membros vs usuários casuais
 <img width="1660" height="947" alt="Image" src="https://github.com/user-attachments/assets/a89797d2-6804-4597-8545-5aaa7bd0d503" />
 
-Este projeto consiste em uma análise de dados da Cyclistic, uma empresa de compartilhamento de bicicletas, com o objetivo de analisar o comportamento de membros anuais e usuários casuais, além de identificar oportunidades de crescimento do negócio. A análise foi realizada com base em dados de viagens dos últimos 12 meses.
+Este projeto analisa o comportamento de usuários do sistema de bicicletas da Cyclistic, comparando membros anuais e usuários casuais, com o objetivo é identificar padrões de uso que ajudem a empresa a converter usuários casuais em membros, aumentando receita e retenção.
 
 Para isso, foi utilizado SQL para responder perguntas de negócio e realizar análises exploratórias, e o Power BI para visualização dos dados e construção de dashboards interativos. Nos arquivos do projeto, também é possível encontrar uma apresentação com os principais insights obtidos ao longo da análise.
 
@@ -9,7 +9,7 @@ Para isso, foi utilizado SQL para responder perguntas de negócio e realizar an�
 
 Como os membros anuais e os usuários casuais utilizam as bicicletas da Cyclistic de maneira diferente?
 
-O objetivo desta análise é identificar padrões de comportamento entre esses dois grupos de usuários, a fim de apoiar estratégias de marketing que incentivem a conversão de usuários casuais em membros anuais. A Cyclistic acredita que membros anuais são mais lucrativos do que usuários casuais. Portanto, entender o comportamento desses usuários é essencial para desenvolver campanhas mais eficazes e aumentar a retenção e fidelização de clientes.
+A Cyclistic acredita que membros anuais são mais lucrativos do que usuários casuais. Portanto, entender o comportamento desses usuários é essencial para desenvolver campanhas mais eficazes e aumentar a retenção e fidelização de clientes.
 
 Para isso, foram analisados aspectos como:
 - Frequência de uso
