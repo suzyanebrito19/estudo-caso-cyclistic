@@ -104,7 +104,9 @@ O uso de usuários casuais apresenta variação significativa ao longo dos meses
 **5. Reposicionar o serviço como solução de mobilidade**
 Os dados indicam que usuários casuais utilizam o serviço de forma mais recreativa, enquanto membros o utilizam como meio de transporte. Reforçar uma comunicação focada em economia, praticidade e uso no dia a dia, como deslocamentos para trabalho ou estudo, pode alterar essa percepção. O objetivo é ampliar o uso funcional do serviço e fortalecer seu papel na rotina do usuário.
 
-
+ ## Dashboard Interativo:
+ 
+  O dashboard apresenta as principais métricas e indicadores de uso, permitindo uma análise clara do comportamento dos usuários e da performance do serviço.
 
 
 
